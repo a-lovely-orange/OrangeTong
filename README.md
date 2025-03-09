@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-lovely-orange
-- 👀 I’m interested in comptuer programing
-- 🌱 I’m currently learning embedded knowledge.
+- 👀 I’m interested in comptuer programing.
+- 🌱 I’m currently learning Real-Time Systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my Email : wy163ct@163.com
 
